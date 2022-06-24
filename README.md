@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-3670A0?style=for-the-badge&logo=tailwindcss&logoColor=ffdd54)
-![Next](https://img.shields.io/badge/next-3670A0?style=for-the-badge&logo=next&logoColor=ffdd54)
+![Next](https://img.shields.io/badge/next-3670A0?style=for-the-badge&logo=nextjs&logoColor=ffdd54)
 
 
 ![Jazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammedjazimtk&show_icons=true&theme=tokyonight)
