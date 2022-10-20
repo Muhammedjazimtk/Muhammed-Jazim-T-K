@@ -24,7 +24,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedjazimtk&theme=tokyonight)
 
-[![Sharun's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammedjazimtk&theme=tokyonight)](https://wakatime.com/@Muhammedjazimtk)
+[![Jazim's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammedjazimtk&theme=tokyonight)](https://wakatime.com/@Muhammedjazimtk)
 
 ## 🐍 snake eating my contribution graph !!
 ![snake gif](https://github.com/Muhammedjazimtk/Muhammedjazimtk/blob/output/github-contribution-grid-snake.svg)
