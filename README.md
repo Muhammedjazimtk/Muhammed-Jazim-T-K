@@ -24,7 +24,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedjazimtk&theme=tokyonight)
 
-[![Sharun's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammedjazimtk)](https://wakatime.com/@Muhammedjazimtk)
+[![Sharun's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammedjazimtk&theme=tokyonight)](https://wakatime.com/@Muhammedjazimtk)
 
 
 
