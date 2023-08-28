@@ -20,15 +20,14 @@
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-![Jazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammedjazimtk&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedjazimtk&theme=tokyonight)
+
+
 
 [![Jazim's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=Muhammedjazimtk&theme=tokyonight)](https://wakatime.com/@Muhammedjazimtk)
 
 
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph/?username=Muhammedjazimtk&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true)](https://git.io/akshay2211&hide_border=true)
 
 
 
