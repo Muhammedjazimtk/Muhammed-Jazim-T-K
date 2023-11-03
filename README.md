@@ -1,7 +1,7 @@
 <h1>Hi I'm Muhammed Jazim T K :wave:</h1>
 
 Hi there 👋! \
-I'm Jazim, B.Tech undergrad from CUSAT. I am a self taught Full stack Developer, currently working on my own projects. I love learning about new technologies and how to make them work for the good of the web.
+I'm Jazim, B.Tech graduate from CUSAT. I am a self taught Full stack Developer, currently working on my own projects. I love learning about new technologies and how to make them work for the good of the web.
 
 
 
